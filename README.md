@@ -12,4 +12,5 @@ The Autoreslove and the battle view need to be configuered correctly.
 ![Screenshot 7_19_2021 11_45_02 PM](https://user-images.githubusercontent.com/83036619/126232303-17fc65bf-5bd8-4b58-8650-30a2a5cb2d15.png)
 ![Screenshot 7_19_2021 11_45_27 PM](https://user-images.githubusercontent.com/83036619/126232311-bd5176c9-fad1-4122-9ebb-f21721a0eb58.png)
 ![Empire Building 7_19_2021 11_46_22 PM](https://user-images.githubusercontent.com/83036619/126233235-c6b454cf-30ce-4cd5-9966-f1fd954a3053.png)
-![Empire Building 7_19_2021 11_46_58 PM](https://user-images.githubusercontent.com/83036619/126232128-25bd97dd-bbad-4cbc-9a3a-15e6f46311ea.png)
+![Empire Building 7_19_2021 11_46_58 PM](https://user-images.githubusercontent.com/83036619/126232128-25bd97dd-bbad-4cbc-9a3a-15e6f46311ea.png) 
+
